@@ -1,4 +1,4 @@
-# ZHA Wiki
+# ZHA supported devices
 This repository holds a list of all devices which are supported by the [ZHA][link-zha] component of [Home Assistant][link-ha].
 
 ## Contributing
