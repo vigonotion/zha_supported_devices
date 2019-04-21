@@ -27,7 +27,7 @@ Explanation:
 | sensors     | yes      | If this device has sensors, specify them in a list. E. g.: motion, contact, water                                                                                                                                |
 | description | no       | A short description about what this devices does                                                                                                                                                                 |
 | notes       | yes      | Additional information about this device. If you had to reset the device in a specific way, write it here                                                                                                        |
-| picture_url | yes      | Pictures should be placed in `devices/pictures/DEVICE_PICTURE.png`. This has to be a 150x150px PNG file. Only add `DEVICE_PICTURE.png` here, do not add the full path.                                                                                                          |
+| picture_url | yes      | Pictures should be placed in `devices/pictures/DEVICE_PICTURE.png`. This has to be a 300x300px PNG file. Only add `DEVICE_PICTURE.png` here, do not add the full path.                                                                                                          |
 | source      | yes      | If this information is from someone else, e. g. from a thread in the forum or on discord, please add a link to the conversation here                                                                             |
 | link        | yes      | A link to the *vendors* product page. Do not put Amazon or AliExpress links here     
 
