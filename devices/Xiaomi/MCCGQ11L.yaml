@@ -1,0 +1,12 @@
+model: MCCGQ11L
+domains:
+  - binary_sensor
+  - sensor
+sensors:
+  - contact
+  - temperature
+description: Xiaomi Aqara Door/Window contact sensor
+notes:
+picture_url: xiaomi_contact_MCCGQ11L.png
+source: 
+link:
