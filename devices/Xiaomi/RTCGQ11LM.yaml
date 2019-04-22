@@ -1,0 +1,14 @@
+model: RTCGQ11LM
+domains:
+  - binary_sensor
+  - sensor
+sensors:
+  - motion
+  - occupancy
+  - illuminance
+  - temperature
+description: Xiaomi Aqara Human Body Sensor, detects motion and light level. Temperature is reported ~once/h
+notes:
+picture_url: xiaomi_motion_luminance.png
+source: 
+link:
